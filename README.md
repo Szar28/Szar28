@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matthew Szarmach
+- 👋 Hi, I’m Matthew S
 - 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning C++ while attending college for Computer Science.
 - 💞️ I’m looking to collaborate on anything.
