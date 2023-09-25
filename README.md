@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Matthew S
-- 👀 I’m interested in learning how to code!
-- 🌱 I’m currently learning C++ while attending college for Computer Science.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me ...
+- 👋 Hi, I’m Matthew Szarmach
+- 👀 I’m interested in expanding my knowledge in Computer Science!
+- 🌱 I’m currently learning C++ and Java while attending college for Computer Science.
 
 <!---
 Szar28/Szar28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
