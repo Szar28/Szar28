@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Szarmach
-- 🌱 I’m currently attending college for Computer Science.
+- 🌱 I am a college graduate with a Bachelor of Computer Science.
 
 <!---
 Szar28/Szar28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
